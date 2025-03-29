@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://Cookie-007.github.io</id>
     <title>Hexo</title>
-    <link href="http://example.com" />
+    <link href="http://Cookie-007.github.io" />
     <updated>2025-03-28T10:41:22.000Z</updated>
     <entry>
-        <id>http://example.com/2025/03/28/zmalTest/</id>
+        <id>http://cookie-007.github.io/2025/03/28/zmalTest/</id>
         <title>zmalTest</title>
-        <link rel="alternate" href="http://example.com/2025/03/28/zmalTest/"/>
+        <link rel="alternate" href="http://cookie-007.github.io/2025/03/28/zmalTest/"/>
         <content type="html">&lt;h2 id=&#34;这是一个测试文章&#34;&gt;&lt;a href=&#34;#这是一个测试文章&#34; class=&#34;headerlink&#34; title=&#34;这是一个测试文章&#34;&gt;&lt;/a&gt;这是一个测试文章&lt;/h2&gt;&lt;p&gt;wo buxie zhongwen la&lt;/p&gt;
 &lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;echo &amp;quot;eh&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;ol&gt;
@@ -22,16 +22,16 @@
         <updated>2025-03-28T10:41:22.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/03/27/%E8%BF%99%E9%87%8C%E6%98%AF%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0%E7%9A%84%E6%A0%87%E9%A2%98/</id>
+        <id>http://cookie-007.github.io/2025/03/27/%E8%BF%99%E9%87%8C%E6%98%AF%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0%E7%9A%84%E6%A0%87%E9%A2%98/</id>
         <title>这里是新建文章的标题</title>
-        <link rel="alternate" href="http://example.com/2025/03/27/%E8%BF%99%E9%87%8C%E6%98%AF%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0%E7%9A%84%E6%A0%87%E9%A2%98/"/>
+        <link rel="alternate" href="http://cookie-007.github.io/2025/03/27/%E8%BF%99%E9%87%8C%E6%98%AF%E6%96%B0%E5%BB%BA%E6%96%87%E7%AB%A0%E7%9A%84%E6%A0%87%E9%A2%98/"/>
         <content type="html">&lt;h2 id=&#34;标题&#34;&gt;&lt;a href=&#34;#标题&#34; class=&#34;headerlink&#34; title=&#34;标题&#34;&gt;&lt;/a&gt;标题&lt;/h2&gt;</content>
         <updated>2025-03-27T04:55:42.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/03/27/hello-world/</id>
+        <id>http://cookie-007.github.io/2025/03/27/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2025/03/27/hello-world/"/>
+        <link rel="alternate" href="http://cookie-007.github.io/2025/03/27/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 
