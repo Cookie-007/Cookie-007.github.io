@@ -14,7 +14,7 @@
 &lt;ol&gt;
 &lt;li&gt;1&lt;/li&gt;
 &lt;li&gt;2&lt;br&gt;&lt;del&gt;sajgdf&lt;/del&gt;&lt;br&gt;&lt;em&gt;iel&lt;/em&gt;&lt;br&gt;&lt;strong&gt;string&lt;/strong&gt;&lt;br&gt;&lt;em&gt;&lt;strong&gt;&lt;del&gt;and more&lt;/del&gt;&lt;/strong&gt;&lt;/em&gt;&lt;blockquote&gt;
-&lt;p&gt;other&lt;/p&gt;
+&lt;p&gt;other&lt;br&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;/./taoli1.jpg&#34; alt=&#34;桃李1&#34;&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
