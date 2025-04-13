@@ -5,12 +5,20 @@
         <link>https://cookie-007.github.io</link>
         <description>创造价值，取悦自己</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 30 Mar 2025 18:41:22 +0800</pubDate>
-        <lastBuildDate>Sun, 30 Mar 2025 18:41:22 +0800</lastBuildDate>
+        <pubDate>Mon, 14 Apr 2025 19:55:42 +0800</pubDate>
+        <lastBuildDate>Mon, 14 Apr 2025 19:55:42 +0800</lastBuildDate>
         <category>你好世界</category>
         <category>测试</category>
-        <category>梦开始的地方</category>
         <category>信使</category>
+        <category>关于以太坊等事项</category>
+        <item>
+            <guid isPermalink="true">https://cookie-007.github.io/2025/04/14/My-start/</guid>
+            <title>yitaifang</title>
+            <link>https://cookie-007.github.io/2025/04/14/My-start/</link>
+            <category>关于以太坊等事项</category>
+            <pubDate>Mon, 14 Apr 2025 19:55:42 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;标题&#34;&gt;&lt;a href=&#34;#标题&#34; class=&#34;headerlink&#34; title=&#34;标题&#34;&gt;&lt;/a&gt;标题&lt;/h2&gt; ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://cookie-007.github.io/2025/03/30/zmalTest/</guid>
             <title>zmalTest</title>
@@ -35,13 +43,13 @@
             <link>https://cookie-007.github.io/2025/03/26/For-xiao/</link>
             <category>信使</category>
             <pubDate>Wed, 26 Mar 2025 07:42:42 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;hbe hbe-container&#34; id=&#34;hexo-blog-encrypt&#34; data-wpm=&#34;Oh, this is an invalid password. Check and try again, please.&#34; data-whm=&#34;OOPS, these decrypted content may changed, but you can still have a look.&#34;&gt;
+            <description><![CDATA[ &lt;div class=&#34;hbe hbe-container&#34; id=&#34;hexo-blog-encrypt&#34; data-wpm=&#34;OH，此密码无效，请重新输入&#34; data-whm=&#34;OOPS, these decrypted content may changed, but you can still have a look.&#34;&gt;
   &lt;script id=&#34;hbeData&#34; type=&#34;hbeData&#34; data-hmacdigest=&#34;fd26c0384b9b905689e2a13bd06549032c4a32196a9aef3accefe5d73e0a35a1&#34;&gt;747027e71337e64b3d77a164734731a7a7324027828a6d3f4d79f07d6adb3eeec4f9c13e5cf1797db73e24bdc8df7ab0901098e034bf3de4bacd5048fd915d2fca2adec5a9527a5be5bfb8ea43fe236b573e6c33e4d015bd0449b98996a36a311b6c8a6dcff324daffa817260963de380586917572bf1fe080de8f688637acd1e5acff9e89b3f391108ce8a039f0edc18b9e58cd5adfcb2ba63400632a84f8dab6ebda1f9aa35889272fd7c9b57590a2c9199fc83de2701a448aea476804d447f6a2aa4abb472389b405bd542dc2a498556b85829ed7bf18c60b4fc106be0532cf9ffa17a91c92e8ae7cd1e84578e96a192f18f7e0d9e962a3e255e0930b03c7fbd93bf750ee93f65912b2dc39d55da3216ee088ea956e7a346dc907b1aa54c57856e9a469ab8140e727df336d1d7b9dd7211eff957c774d9a18c365a99405a4&lt;/script&gt;
   &lt;div class=&#34;hbe hbe-content&#34;&gt;
     &lt;div class=&#34;hbe hbe-input hbe-input-default&#34;&gt;
       &lt;input class=&#34;hbe hbe-input-field hbe-input-field-default&#34; type=&#34;password&#34; id=&#34;hbePass&#34;&gt;
       &lt;label class=&#34;hbe hbe-input-label hbe-input-label-default&#34; for=&#34;hbePass&#34;&gt;
-        &lt;span class=&#34;hbe hbe-input-label-content hbe-input-label-content-default&#34;&gt;Hey, password is required here.&lt;/span&gt;
+        &lt;span class=&#34;hbe hbe-input-label-content hbe-input-label-content-default&#34;&gt;请点击输入密码以访问&lt;/span&gt;
       &lt;/label&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -68,14 +76,6 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://cookie-007.github.io/2025/03/23/My-start/</guid>
-            <title>My-start</title>
-            <link>https://cookie-007.github.io/2025/03/23/My-start/</link>
-            <category>梦开始的地方</category>
-            <pubDate>Sun, 23 Mar 2025 12:55:42 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;标题&#34;&gt;&lt;a href=&#34;#标题&#34; class=&#34;headerlink&#34; title=&#34;标题&#34;&gt;&lt;/a&gt;标题&lt;/h2&gt; ]]></description>
         </item>
     </channel>
 </rss>
