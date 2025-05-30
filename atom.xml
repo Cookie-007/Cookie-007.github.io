@@ -5,9 +5,9 @@
     <link href="https://cookie-007.github.io" />
     <updated>2025-04-14T11:55:42.000Z</updated>
     <category term="信使" />
-    <category term="你好世界" />
     <category term="关于以太坊等事项" />
     <category term="测试" />
+    <category term="随心记" />
     <entry>
         <id>https://cookie-007.github.io/2025/04/14/My-start/</id>
         <title>关于以太坊等事项</title>
@@ -66,7 +66,7 @@
     </entry>
     <entry>
         <id>https://cookie-007.github.io/2025/03/24/hello-world/</id>
-        <title>Hello World</title>
+        <title>很长的电影</title>
         <link rel="alternate" href="https://cookie-007.github.io/2025/03/24/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;Quick-Start&#34;&gt;&lt;a href=&#34;#Quick-Start&#34; class=&#34;headerlink&#34; title=&#34;Quick Start&#34;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&#34;Create-a-new-post&#34;&gt;&lt;a href=&#34;#Create-a-new-post&#34; class=&#34;headerlink&#34; title=&#34;Create a new post&#34;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo new &amp;quot;My New Post&amp;quot;
@@ -82,7 +82,7 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
 </content>
-        <category term="你好世界" />
+        <category term="随心记" />
         <updated>2025-03-23T23:32:42.000Z</updated>
     </entry>
 </feed>
