@@ -52,9 +52,95 @@
 &lt;body&gt;
 
 &lt;h1 id=&#34;2025年&#34; class=&#34;active&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2025年&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 2025年&lt;/h1&gt; 
+&lt;h2 id=&#34;8月&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#8月&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 8月&lt;/h2&gt;
+&lt;ul&gt;
+&lt;h3 id=&#34;5号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 5号&lt;/h3&gt;
+&lt;li&gt;
+[18:42 欢乐城]&lt;br&gt;
+一直都觉得欢乐城前面的这个小城堡好好看，特别是有霞的时候，这小城堡居然是个公厕，神奇吧，我哪天闲了高低得去那上个厕所
+&lt;div class=&#34;image-container&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/chengbao.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/bcqy3.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;/div&gt;
+&lt;/li&gt;
+&lt;h3 id=&#34;4号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 4号&lt;/h3&gt;
+&lt;li&gt;
+[10:34]&lt;br&gt;
+虽然但是，您点的是预约单呀，我就是提前20分钟到了，也不能点送达呀，要被硬控在这，真为难我了...噢您说加20块钱呀，那我【使命必达！】&lt;br&gt;
+ps:&lt;span class=&#34;spoiler&#34; title=&#34;是吧是吧&#34;&gt;这才是高端小区该有的样子，外卖送到小区门口，让保安拿进去，而不是我送进去&lt;/span&gt;
+&lt;div class=&#34;image-container&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/haoren1.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/haoren2.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/haoren3.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/haoren4.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;/div&gt;
+&lt;/li&gt;
+&lt;h3 id=&#34;3号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 3号&lt;/h3&gt;
+&lt;li&gt;
+[20:57]&lt;br&gt;
+无独有偶
+&lt;div style=&#34;max-width: 600px; margin: 30px auto; box-shadow: 0 8px 30px 8px rgba(0,0,0,0.55); border-radius: 12px; overflow: hidden;&#34;&gt;
+  &lt;video 
+    src=&#34;/images/xiaren2.mp4&#34;  
+    controls                       &lt;!-- 显示播放控制条 --&gt;
+    width=&#34;100%&#34;                   &lt;!-- 宽度自适应容器 --&gt;
+    height=&#34;auto&#34;                  &lt;!-- 高度自动按比例缩放，保持画面比例 --&gt;
+    &lt;!-- poster=&#34;/images/video-cover.jpg&#34;  视频封面图（替换为你的封面路径，未播放时显示） --&gt;
+    preload=&#34;metadata&#34;             &lt;!-- 预加载元数据，优化加载体验 --&gt;
+    style=&#34;display: block; width: 100%; height: auto; border: none;&#34;
+  &gt;
+    您的浏览器不支持HTML5视频播放，请升级浏览器。  &lt;!-- 兼容性提示 --&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;h3 id=&#34;2号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 2号&lt;/h3&gt;
+&lt;li&gt;
+[20:57]&lt;br&gt;
+今天交到新朋友了
+&lt;div style=&#34;max-width: 600px; margin: 30px auto; box-shadow: 0 8px 30px 8px rgba(0,0,0,0.55); border-radius: 12px; overflow: hidden;&#34;&gt;
+  &lt;video 
+    src=&#34;/images/xiaren1.mp4&#34;  
+    controls                       &lt;!-- 显示播放控制条 --&gt;
+    width=&#34;100%&#34;                   &lt;!-- 宽度自适应容器 --&gt;
+    height=&#34;auto&#34;                  &lt;!-- 高度自动按比例缩放，保持画面比例 --&gt;
+    &lt;!-- poster=&#34;/images/video-cover.jpg&#34;  视频封面图（替换为你的封面路径，未播放时显示） --&gt;
+    preload=&#34;metadata&#34;             &lt;!-- 预加载元数据，优化加载体验 --&gt;
+    style=&#34;display: block; width: 100%; height: auto; border: none;&#34;
+  &gt;
+    您的浏览器不支持HTML5视频播放，请升级浏览器。  &lt;!-- 兼容性提示 --&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/li&gt;
+&lt;h3 id=&#34;2号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 2号&lt;/h3&gt;
+&lt;li&gt;
+[18:43]&lt;br&gt;
+🥶🥶🥶🥶🥶🥶
+&lt;div class=&#34;image-container&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/cesuo.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;7月&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#7月&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 7月&lt;/h2&gt;
 &lt;ul&gt;
-
+&lt;h3 id=&#34;29号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#29号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 29号&lt;/h3&gt;
+&lt;li&gt;
+[22:39]&lt;br&gt;
+哈哈哈哈
+&lt;div class=&#34;image-container&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/woniu.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;/div&gt;
+&lt;/li&gt;
+&lt;h3 id=&#34;24号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#24号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 24号&lt;/h3&gt;
+&lt;li&gt;
+[18:17]&lt;br&gt;
+暴雨前30分钟随手拍的，这种光影光手机记录都够好看了，加点构图再去lr后期一下不得美到爆
+&lt;div class=&#34;image-container&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/liming1.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/liming2.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/liming3.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/liming4.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;/div&gt;
+&lt;/li&gt;
 &lt;h3 id=&#34;24号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#24号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 24号&lt;/h3&gt;
 &lt;li&gt;
 [铂悦城]&lt;br&gt;
@@ -70,6 +156,13 @@
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/meishi7.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
   &lt;/div&gt;
 &lt;/li&gt;
+&lt;h3 id=&#34;21号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#21号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 21号&lt;/h3&gt;
+&lt;li&gt;
+[18:51]&lt;br&gt;
+骑车路上随手拍的，回家一看原来拍的这么好看嘿嘿嘿
+&lt;div class=&#34;image-container&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/fengjing.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;/div&gt;
 &lt;/li&gt;
 &lt;h3 id=&#34;11号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#11号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 11号&lt;/h3&gt;
 &lt;li&gt;
@@ -111,6 +204,14 @@
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sanchaji.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/cmao1.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/cmao2.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;/div&gt;
+&lt;/li&gt;
+&lt;h3 id=&#34;7号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#7号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 7号&lt;/h3&gt;
+&lt;li&gt;
+[17:55 安吉校区体育馆前]&lt;br&gt;
+&#34;快门关不住的浮光掠影&#34;除了摄影@鱼鱼鱼，图中4个人都刚好在框内了.推车真的好好玩嘿嘿
+&lt;div class=&#34;image-container&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/tuiche.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
   &lt;/div&gt;
 &lt;/li&gt;
 &lt;h3 id=&#34;7号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#7号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 7号&lt;/h3&gt;
