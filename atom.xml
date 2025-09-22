@@ -119,6 +119,34 @@
 &lt;h1 id=&#34;2025年&#34; class=&#34;active&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2025年&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 2025年&lt;/h1&gt; 
 &lt;h2 id=&#34;8月&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#8月&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 8月&lt;/h2&gt;
 &lt;ul&gt;
+&lt;h3 id=&#34;12号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#12号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 12号&lt;/h3&gt;
+&lt;li&gt;
+[21:59]&lt;br&gt;
+关于送外卖的一些奇闻轶事，哈哈哈哈，真的很好笑呀
+&lt;div class=&#34;image-container&#34;&gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/waimai1.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/waimai2.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;/div&gt;
+&lt;/li&gt;
+&lt;h3 id=&#34;11号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#11号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 11号&lt;/h3&gt;
+&lt;li&gt;
+[20:01]&lt;br&gt;
+笑死我算了，这种猫居然有第二只&lt;br&gt;
+在人才公寓看到的，笑死我了
+&lt;div style=&#34;max-width: 600px; margin: 30px auto; box-shadow: 0 8px 30px 8px rgba(0,0,0,0.55); border-radius: 12px; overflow: hidden;&#34;&gt;
+  &lt;video 
+    src=&#34;/images/xiaomao2.mp4&#34;  
+    controls                       &lt;!-- 显示播放控制条 --&gt;
+    width=&#34;100%&#34;                   &lt;!-- 宽度自适应容器 --&gt;
+    height=&#34;auto&#34;                  &lt;!-- 高度自动按比例缩放，保持画面比例 --&gt;
+    &lt;!-- poster=&#34;/images/video-cover.jpg&#34;  视频封面图（替换为你的封面路径，未播放时显示） --&gt;
+    preload=&#34;metadata&#34;             &lt;!-- 预加载元数据，优化加载体验 --&gt;
+    style=&#34;display: block; width: 100%; height: auto; border: none;&#34;
+  &gt;
+    您的浏览器不支持HTML5视频播放，请升级浏览器。  &lt;!-- 兼容性提示 --&gt;
+  &lt;/video&gt;
+&lt;/div&gt;
+&lt;/li&gt;
 &lt;h3 id=&#34;5号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 5号&lt;/h3&gt;
 &lt;li&gt;
 [18:42 欢乐城]&lt;br&gt;
@@ -179,7 +207,7 @@ ps:&lt;span class=&#34;spoiler&#34; title=&#34;是吧是吧&#34;&gt;这才是高
 &lt;h3 id=&#34;2号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 2号&lt;/h3&gt;
 &lt;li&gt;
 [18:43]&lt;br&gt;
-🥶🥶🥶🥶🥶🥶
+&lt;span style=&#34;font-size: 1.5em;&#34;&gt;🥶🥶🥶🥶🥶🥶&lt;/span&gt;
 &lt;div class=&#34;image-container&#34;&gt;
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/cesuo.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
   &lt;/div&gt;
@@ -209,7 +237,7 @@ ps:&lt;span class=&#34;spoiler&#34; title=&#34;是吧是吧&#34;&gt;这才是高
 &lt;h3 id=&#34;24号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#24号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 24号&lt;/h3&gt;
 &lt;li&gt;
 [铂悦城]&lt;br&gt;
-做的菜和炒饭合集
+做的菜和炒饭合集(部分)
 &lt;div class=&#34;image-container&#34;&gt;
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/meishi1.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/meishi2.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
@@ -267,8 +295,8 @@ ps:&lt;span class=&#34;spoiler&#34; title=&#34;是吧是吧&#34;&gt;这才是高
 可惜明天之后就见不到他们了ŏ̥̥̥̥םŏ̥̥̥̥
 &lt;div class=&#34;image-container&#34;&gt;
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/sanchaji.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
-  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/cmao1.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/cmao2.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/cmao1.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
   &lt;/div&gt;
 &lt;/li&gt;
 &lt;h3 id=&#34;7号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#7号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 7号&lt;/h3&gt;
@@ -386,7 +414,7 @@ ps:&lt;span class=&#34;spoiler&#34; title=&#34;是吧是吧&#34;&gt;这才是高
 &lt;/li&gt;
 &lt;div class=&#34;image-container&#34;&gt;
   &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/wuls1.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
-  &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/wuls2.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt;
+  &lt;!-- &lt;img loading=&#34;lazy&#34; data-src=&#34;/images/wuls2.jpg&#34; class=&#34;responsive-img&#34; alt=&#34;图片1描述&#34; &gt; --&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;20号&#34; class=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#20号&#34; data-pjax-state=&#34;&#34;&gt;#&lt;/a&gt; 20号&lt;/h3&gt;
 &lt;li&gt;[14:47]&lt;br&gt;
